@@ -3,7 +3,7 @@ Next Step - TDD, Clean Code with Java log
 
 <br>
 
-## step 1 : 자동차 경주 게임
+## step 1 : 🏎 자동차 경주 게임
 
 
 | Step | Project | Pull Request |
@@ -15,7 +15,7 @@ Next Step - TDD, Clean Code with Java log
 
 <br>
 
-## step 2 : 로또
+## step 2 : :8ball: 로또
 
 
 | Step | Project | Pull Request |
@@ -27,7 +27,7 @@ Next Step - TDD, Clean Code with Java log
 
 <br>
 
-## step 3 : 사다리 게임
+## step 3 : 🪜 사다리 게임
 
 
 | Step | Project  | Pull Request |
@@ -39,7 +39,7 @@ Next Step - TDD, Clean Code with Java log
 
 <br>
 
-## step 4 : 볼링 게임 점수판
+## step 4 : 🎳 볼링 게임 점수판
 
 
 | Step | Project  | Pull Request |
