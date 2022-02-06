@@ -45,7 +45,7 @@ Next Step - TDD, Clean Code with Java log
 | Step | Project  | Pull Request |
 |:---:|:---:|:---:|
 | 1 |  질문 삭제하기 기능 리팩토링  | [Pull Request](https://github.com/next-step/java-bowling/pull/631) |
-| 2 | 볼링 점수판(그리기)  | [Pull Request](https://github.com/next-step/java-bowling/commit/8f12a644f2fe199df3828366dda9deeb2b13edef) |
+| 2 | 볼링 점수판(그리기)  | [Pull Request](https://github.com/next-step/java-bowling/pull/673) |
 | 3 | 볼링 점수판(점수 계산) | [Pull Request](https://github.com/next-step/java-bowling/pull/697) |
 | 4 | 볼링 점수판(n명)| [Pull Request](https://github.com/next-step/java-bowling/pull/697) |
 
