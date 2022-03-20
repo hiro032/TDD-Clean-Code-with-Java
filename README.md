@@ -8,10 +8,10 @@ Next Step - TDD, Clean Code with Java log
 
 | Step | Project | Pull Request |
 |:---:|:---:|:---|
-| 1 |  문자열 계산기      | [Pull Request](https://github.com/next-step/java-racingcar/pull/2469) |
-| 2 | 자동차 경주         | [Pull Request](https://github.com/next-step/java-racingcar/pull/2517) |
-| 3 | 자동차 경주(우승자)   | [Pull Request](https://github.com/next-step/java-racingcar/pull/2550) |
-| 4 | 자동차 경주(리팩토링) | [Pull Request](https://github.com/next-step/java-racingcar/pull/2568) |
+| 1 |  문자열 계산기      | [Pull Request](https://github.com/next-step/java-racingcar/pull/2728) |
+| 2 | 자동차 경주         | [Pull Request](https://github.com/next-step/java-racingcar/pull/2752) |
+| 3 | 자동차 경주(우승자)   | [Pull Request](https://github.com/next-step/java-racingcar/pull/2858) |
+| 4 | 자동차 경주(리팩토링) | [Pull Request](https://github.com/next-step/java-racingcar/pull/2894) |
 
 <br>
 
@@ -20,10 +20,10 @@ Next Step - TDD, Clean Code with Java log
 
 | Step | Project | Pull Request |
 |:---:|:---:|:---|
-| 1 |  문자열 덧셈 계산기 | [Pull Request](https://github.com/next-step/java-lotto/pull/1857) |
-| 2 | 로또(자동)  | [Pull Request](https://github.com/next-step/java-lotto/pull/1881) |
-| 3 | 로또(2등)  | [Pull Request](https://github.com/next-step/java-lotto/pull/1943) |
-| 4 | 로또(수동) | [Pull Request](https://github.com/next-step/java-lotto/pull/1990) |
+| 1 |  문자열 덧셈 계산기 | [Pull Request](https://github.com/next-step/java-lotto/pull/2091) |
+| 2 | 로또(자동)  | [Pull Request](https://github.com/next-step/java-lotto/pull/2102) |
+| 3 | 로또(2등)  | [Pull Request](https://github.com/next-step/java-lotto/pull/2116) |
+| 4 | 로또(수동) | [Pull Request](https://github.com/next-step/java-lotto/pull/2128) |
 
 <br>
 
@@ -32,10 +32,10 @@ Next Step - TDD, Clean Code with Java log
 
 | Step | Project  | Pull Request |
 |:---:|:---:|:---:|
-| 1 |  Stream, Lambda, Optional | [Pull Request](https://github.com/next-step/java-ladder/pull/1080) |
-| 2 | 사다리(생성) |  [Pull Request](https://github.com/next-step/java-ladder/pull/1095) |
-| 3 | 사다리(게임 실행) | [Pull Request](https://github.com/next-step/java-ladder/pull/1119) |
-| 4 | 사다리(리팩토링) | [Pull Request](https://github.com/next-step/java-ladder/pull/1155) |
+| 1 |  Stream, Lambda, Optional | [Pull Request](https://github.com/next-step/java-ladder/pull/1213) |
+| 2 | 사다리(생성) |  [Pull Request](https://github.com/next-step/java-ladder/pull/1228) |
+| 3 | 사다리(게임 실행) | [Pull Request](https://github.com/next-step/java-ladder/pull/1248) |
+| 4 | 사다리(리팩토링) | [Pull Request](https://github.com/next-step/java-ladder/pull/1254) |
 
 <br>
 
