@@ -6,7 +6,7 @@ Next Step - TDD, Clean Code with Java log
 ## step 1 - 🏎 자동차 경주 게임
 
 
-| Step | Project | Pull Request |
+| Step | Mission | Pull Request |
 |:---:|:---:|:---|
 | 1 |  문자열 계산기      | [Pull Request](https://github.com/next-step/java-racingcar/pull/2728) |
 | 2 | 자동차 경주         | [Pull Request](https://github.com/next-step/java-racingcar/pull/2752) |
@@ -18,7 +18,7 @@ Next Step - TDD, Clean Code with Java log
 ## step 2 - :8ball: 로또
 
 
-| Step | Project | Pull Request |
+| Step | Mission | Pull Request |
 |:---:|:---:|:---|
 | 1 |  문자열 덧셈 계산기 | [Pull Request](https://github.com/next-step/java-lotto/pull/2091) |
 | 2 | 로또(자동)  | [Pull Request](https://github.com/next-step/java-lotto/pull/2102) |
@@ -30,7 +30,7 @@ Next Step - TDD, Clean Code with Java log
 ## step 3 - 🪜 사다리 게임
 
 
-| Step | Project  | Pull Request |
+| Step | Mission  | Pull Request |
 |:---:|:---:|:---:|
 | 1 |  Stream, Lambda, Optional | [Pull Request](https://github.com/next-step/java-ladder/pull/1213) |
 | 2 | 사다리(생성) |  [Pull Request](https://github.com/next-step/java-ladder/pull/1228) |
@@ -42,7 +42,7 @@ Next Step - TDD, Clean Code with Java log
 ## step 4 - 🎳 볼링 게임 점수판
 
 
-| Step | Project  | Pull Request |
+| Step | Mission  | Pull Request |
 |:---:|:---:|:---:|
 | 1 |  질문 삭제하기 기능 리팩토링  | [Pull Request](https://github.com/next-step/java-bowling/pull/631) |
 | 2 | 볼링 점수판(그리기)  | [Pull Request](https://github.com/next-step/java-bowling/pull/673) |
